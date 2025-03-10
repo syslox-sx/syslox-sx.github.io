@@ -1,7 +1,7 @@
 <?php
 // ตั้งค่าการเชื่อมต่อกับ Supabase PostgreSQL
 $host = 'db.tkrxalwhftfcmcqtvkmw.supabase.co'; // แก้ไขเป็นโฮสต์ของคุณจาก Supabase
-$db = 'postgres';
+$db = 'sxdb';
 $user = 'postgres'; // ปกติจะใช้ postgres เป็น default
 $pass = 'syst1346';
 $port = '5432'; // ปกติใช้พอร์ต 5432 สำหรับ PostgreSQL
